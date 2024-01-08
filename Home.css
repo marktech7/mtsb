@@ -119,12 +119,7 @@
 .u-section-2 .u-text-4 {
   font-weight: 700;
   line-height: 1;
-  margin: 29px 20px 0;
-}
-
-.u-section-2 .u-btn-1 {
-  background-image: none;
-  padding: 0;
+  margin: 31px 20px 0;
 }
 
 .u-section-2 .u-image-1 {
@@ -1164,6 +1159,7 @@
 }
 
 .u-section-6 .u-text-3 {
+  font-size: 1.125rem;
   margin: 56px auto 0 119px;
 }
 
@@ -1213,10 +1209,6 @@
     margin-top: 501px;
     margin-right: auto;
     margin-left: 263px;
-  }
-
-  .u-section-6 .u-text-3 {
-    font-size: 1.125rem;
   }
 }
 
