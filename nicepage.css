@@ -42578,21 +42578,25 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-image-1 {
   width: 137px;
   height: 51px;
-  margin: 10px auto 0 -33px;
+  margin: 10px auto 0 -30px;
 }
 
 .u-header .u-text-1 {
   font-weight: 700;
-  margin: -43px auto 16px 79px;
+  margin: -42px auto 16px 79px;
+}
+
+.u-header .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }
 @media (max-width: 1199px) {
   .u-header .u-image-1 {
-    width: 137px;
-    height: 52px;
+    margin-left: -30px;
   }
 
   .u-header .u-text-1 {
-    margin-top: -43px;
+    margin-top: -42px;
     margin-left: 79px;
   }
 }

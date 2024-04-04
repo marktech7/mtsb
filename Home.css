@@ -137,6 +137,11 @@
   margin: 31px 20px 0;
 }
 
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-3 .u-image-1 {
   min-height: 453px;
   background-image: url("images/WhatsAppImage2022-11-20at6.52.44PM.jpeg");
